@@ -1,4 +1,4 @@
-# AS2020. AtomSkills 2020. IT Solution for business
+# AtomSkills 2020. IT Solution for business
 
 ## Информация о проведении чемпионата
 Информация о проведении чемпионата в компетенции «Программные решения для бизнеса» находятся по ссылке: [https://yadi.sk/i/Uu2wnzEGJ_zPCw](https://yadi.sk/i/Uu2wnzEGJ_zPCw)
