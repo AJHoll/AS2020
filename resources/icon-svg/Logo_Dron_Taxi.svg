@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="390" viewBox="33.646 33.646 332.708 332.708">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #606;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 250px;
+        text-anchor: middle;
+        font-family: "Open Sans";
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #ff0;
+      }
+    </style>
+  </defs>
+  <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-1" cx="200" cy="200" r="165"/>
+  <circle id="Эллипс_1-2" data-name="Эллипс 1" class="cls-2" cx="200" cy="200" r="150"/>
+  <text id="D" class="cls-3" x="216" y="289"><tspan x="216">D</tspan></text>
+  <text id="T" class="cls-4" x="165" y="289"><tspan x="165">T</tspan></text>
+</svg>
